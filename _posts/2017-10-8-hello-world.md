@@ -1,13 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Revivendo os mortos
 tags:
   - test
   - tags
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Dado as condições atuais e a falta de tempo. resolvi buscar por postar aqui meu blog pessoal tanto sobre minha jornada de aprender mais na area de programação e web dev quanto das coisas que gosto como ler e escrever.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Sou formado em Letras falo ingles e japones. Atuava como professor já a cerca de 10 anos mas resolvi mudar de area, e essa area era minha segunda paixão: T.I. . Os assuntos vão ser variados, de politica, conto e como otimizar linux a minha jornada para me tornar um profissional em T.I. . Obrigado por ler
