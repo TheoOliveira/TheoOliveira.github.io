@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Sou iniciante na area de TI apesar de ter um conhecimento prévio a tempos. Estou buscando melhorar em Web Dev enquanto estou aprendendo outras linguagens. 
 
-### More Information
+### Mais sobre mim
 
-A place to include any other types of information that you'd like to include about yourself.
+Sou formato em Letras, e fui professor durante 10 anos e resolvi mudar de carreira. Por isso o blog mistura web dev, literatura, politica e minha jornada nessa mudança.
 
-### Contact me
+### Contato
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:theophilo.oliveira@gmail.com)
