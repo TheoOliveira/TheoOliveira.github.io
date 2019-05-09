@@ -2,8 +2,11 @@
 layout: post
 title: Revivendo os mortos
 tags:
-  - test
-  - tags
+  - retomada
+  - escrever
+  - sobre
+  - escrita
+  - TI
 published: true
 ---
 
