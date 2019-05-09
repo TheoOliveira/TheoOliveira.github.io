@@ -13,4 +13,4 @@ Sou formato em Letras, e fui professor durante 10 anos e resolvi mudar de carrei
 
 ### Contato
 
-[email@domain.com](mailto:theophilo.oliveira@gmail.com)
+[theophilo.oliveira@gmail.com](mailto:theophilo.oliveira@gmail.com)
