@@ -9,7 +9,7 @@ Sou iniciante na area de TI apesar de ter um conhecimento prévio a tempos. Esto
 
 ### Mais sobre mim
 
-Sou formato em Letras, e fui professor durante 10 anos e resolvi mudar de carreira. Por isso o blog mistura web dev, literatura, politica e minha jornada nessa mudança.
+Sou formato em Letras, e fui professor durante 10 anos e resolvi mudar de carreira. Por isso o blog mistura web dev, literatura, politica e minha jornada nessa mudança. E meus autores favoritos: C.S. Lewis, Chesterton, Dostoieski, Tolstoi e Tolkien
 
 ### Contato
 
