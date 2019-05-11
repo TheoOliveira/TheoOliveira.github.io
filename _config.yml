@@ -24,8 +24,7 @@ navigation:
     url: /
   - name: Sobre
     url: /about
-  - name: Portfolio
-    url: /portfolio
+ 
   
 
 # Pagination
