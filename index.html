@@ -29,7 +29,11 @@ published: true
           {% endfor %}
         </ul>
       </div>
-
+<div class="posts">
+        {{ post.excerpt }}
+      </div>
+ 
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leia mais</a>
      </article>
   {% endfor %}
 </div>
