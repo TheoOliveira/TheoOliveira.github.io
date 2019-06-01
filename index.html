@@ -1,10 +1,9 @@
 ---
 layout: default
-published: true
 ---
 
 {% if site.posts.size == 0 %}
-  <h2>Não encontrado</h2>
+  <h2>No post found</h2>
 {% endif %}
 
 <div class="posts">
@@ -29,12 +28,13 @@ published: true
           {% endfor %}
         </ul>
       </div>
-<div class="posts">
+
+      <div class="entry">
         {{ post.excerpt }}
       </div>
- 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leia mais</a>
-     </article>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
   {% endfor %}
 </div>
 
@@ -42,14 +42,14 @@ published: true
   {% if paginator.previous_page %}
     <span class="prev">
       <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="prev">
-        &#xE000; Anterior
+        &#xE000; Previous
       </a>
     </span>
   {% endif %}
   {% if paginator.next_page %}
     <span class="next">
       <a href="{{ site.baseurl}}{{ paginator.next_page_path }}" class="next">
-        Próximo &#xE001;
+        Next &#xE001;
       </a>
     </span>
   {% endif %}
