@@ -5,9 +5,9 @@ permalink: /about/
 published: true
 ---
 
-Sou iniciante na area de TI apesar de ter um conhecimento prévio a tempos. Estou buscando melhorar em Web Dev enquanto estou aprendendo outras linguagens. 
+Sou iniciante na area de TI apesar de ter um conhecimento prévio a tempos. Estou buscando melhorar em Web Dev enquanto estou aprendendo outras linguagens. Atualmente no projeto de uma nova distro brasileira chamada KurOS.
 
-### Mais sobre mim
+
 
 Sou formato em Letras, e fui professor durante 10 anos e resolvi mudar de carreira. Por isso o blog mistura web dev, literatura, politica e minha jornada nessa mudança. E meus autores favoritos: C.S. Lewis, Chesterton, Dostoieski, Tolstoi e Tolkien
 
