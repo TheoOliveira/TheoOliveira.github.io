@@ -1,5 +1,11 @@
 ---
-published: false
+published: true
+tags:
+- youtube
+- aprendizado
+- programação
+- linux
+- ti
 ---
 ## Canais do Youtube sobre TI que gosto
 
