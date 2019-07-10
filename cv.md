@@ -1,3 +1,11 @@
+---
+layout: page
+title: Curriculo
+permalink: /cv/
+published: true
+---
+
+
 #Theophilo de Oliveira Damião
 theophilo.oliveira@gmail.com  TheoOliveira  
 blog: theooliveira.tech
