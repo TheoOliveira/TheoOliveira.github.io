@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculo
-permalink: /cv
+permalink: /cv/
 published: true
 ---
 
