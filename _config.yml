@@ -23,7 +23,7 @@ navigation:
   - name: Blog
     url: /
   - name: Curriculo
-    url:/cv
+    url: /cv
   - name: Sobre
     url: /about
  
