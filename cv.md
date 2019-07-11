@@ -4,14 +4,11 @@ title: Curriculo
 permalink: /cv/
 published: true
 ---
-
-
-#Theophilo de Oliveira Damião
-
+## Theophilo de Oliveira Damião
 
 
 
-##HABILIDADES E IDIOMAS
+### HABILIDADES E IDIOMAS
 
 
 * HTML5		CSS3			JAVASCRIPT			
@@ -23,8 +20,7 @@ published: true
 
 
 
-
-##RESUMO DE QUALIFICAÇÕES
+### RESUMO DE QUALIFICAÇÕES
 
 
     • Experiência com instalação, configuração e manutenção de distribuições Linux Debian e Arch com uso constante já a 10 anos. 
@@ -33,7 +29,7 @@ published: true
     • Experiência com criação e instalação de maquinas virtuais de desktops pelo VMware e VirtualBox
 
 
-##EXPERIÊNCIA
+### EXPERIÊNCIA
 
 
 * Prefeitura Municipal Poá, Poá — Professor Inglês
@@ -52,7 +48,7 @@ JANEIRO DE 2011 - OUTUBRO DE 2011
 * BitCompany, Paulínia — Professor Inglês
 JANEIRO DE 2010 -DEZEMBRO DE 2010
 
-##FORMAÇÃO
+### FORMAÇÃO
 
 
 * Análise e Desenvolvimento de Sistemas -  UNISA (2019)
