@@ -6,32 +6,25 @@ published: true
 ---
 ## Theophilo de Oliveira Damião
 
-
-
 ### HABILIDADES E IDIOMAS
 
-
-* HTML5		CSS3			JAVASCRIPT			
-* BOOTSTRAP			GIT
-* LINUX (DEBIAN-BASED)		LINUX (ARCH-BASED)	
+* HTML5  CSS3   JAVASCRIPT  NODE
+* BOOTSTRAP   GIT
+* LINUX (DEBIAN-BASED)  LINUX (ARCH-BASED)
 * VIRTUALIZAÇÃO (VMWARE)
-* BASH SCRIPTING	WORDPRESS  INGLES FLUENTE	
+* BASH SCRIPTING WORDPRESS  INGLES FLUENTE	
 * JAPONÊS INTERMEDIÁRIO
-
-
 
 ### RESUMO DE QUALIFICAÇÕES
 
-
-    • Experiência com instalação, configuração e manutenção de distribuições Linux Debian e Arch com uso constante já a 10 anos. 
-    • Fundamentos de HTML5, CSS3, Bootstrap 4.3 e Javascript para design responsivo de sites 
-    • Experiência com criação de sites pessoais pela plataforma Wordpress e sites de E-commerce pelo Woocommerce.  
-    • Experiência com criação e instalação de maquinas virtuais de desktops pelo VMware e VirtualBox
-
+* Experiência com instalação, configuração e manutenção de distribuições Linux Debian e Arch com uso constante já a 10 anos. 
+* Fundamentos de HTML5, CSS3, Bootstrap 4.3 e Javascript para design responsivo de sites 
+* Experiência com criação de sites pessoais pela plataforma Wordpress e sites de E-commerce pelo Woocommerce.  
+* Experiência com criação e instalação de maquinas virtuais de desktops pelo VMware e VirtualBox
 
 ### EXPERIÊNCIA
 
-
+* Smarkio Brasil, Analista de NLU (Atual)
 * Prefeitura Municipal Poá, Poá — Professor Inglês
 Fevereiro 2014 - Dezembro DE 2018
 * WiseUp, Mogi das Cruzes — Professor Inglês
@@ -49,7 +42,6 @@ JANEIRO DE 2011 - OUTUBRO DE 2011
 JANEIRO DE 2010 -DEZEMBRO DE 2010
 
 ### FORMAÇÃO
-
 
 * Análise e Desenvolvimento de Sistemas -  UNISA (2019)
 Abril 2019(trancado)
